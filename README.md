@@ -2,7 +2,7 @@
 
 **Currently in the process of transitioning into Machine-Learning Data-Science & Deep-Learning.**
 
-Follow **[`@paul_rohan` on Twitter](https://twitter.com/paulr_rohan)** and check out my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
+You can follow me **[on Twitter - @paul_rohan](https://twitter.com/paulr_rohan)** or check out my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
 
 ## More about me
 
