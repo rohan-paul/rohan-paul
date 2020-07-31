@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Currently in the process of transitioning into Machine-Learning Data-Science & Deep-Learning.**
+**Currently in the process of transitioning into Machine-Learning Data-Science & Deep-Learning. Till now over the previous two years, worked in Bangalore startup scene as a Front-End Engineer (React, React-Native and Angular)**
 
 You can follow me **[on Twitter - @paul_rohan](https://twitter.com/paulr_rohan)** or check out my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
 
