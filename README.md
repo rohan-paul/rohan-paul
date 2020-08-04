@@ -12,7 +12,7 @@
 
 - ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
 
-- 🌱 I’m currently learning Linear Regression and other Math/Stat fundamental techniques in the context of implementing these in Machine Learning and Data Science ...
+- 🌱 I’m currently learning Linear Regression and other Math/Stat fundamental techniques in the context of implementing them in Machine Learning and Data Science ...
 
 * 🔭 **Currently working on Tensorflow, Pandas, Matplotlib and couple of other Machine-Learning and Data-Science libraries and tools.**
 
