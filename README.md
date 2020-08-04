@@ -10,11 +10,11 @@
 
 - ⚡ **Ex Deutsche Bank and Ex HSBC Financial Analyst (India and Australia)**.
 
-- ⚡ **About my career transformation** - After working for 10 years in International Banking (working across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
+- ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
 
-- 🌱 I’m currently learning Linear Regression and other Math/Stat concepts in the context of ML/DS ...
+- 🌱 I’m currently learning Linear Regression and other Math/Stat fundamental techniques in the context of implementing these in Machine Learning and Data Science ...
 
-* 🔭 **Currently working on Tensorflow, Pandas and couple of other Machine-Learning and Data-Science libraries and tools.**
+* 🔭 **Currently working on Tensorflow, Pandas, Matplotlib and couple of other Machine-Learning and Data-Science libraries and tools.**
 
 ### On my blog
 
