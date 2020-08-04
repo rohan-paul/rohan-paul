@@ -8,9 +8,9 @@
 
 - ⚡ **Self-taught Developer and super unusual Career changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
 
-- ⚡ **Ex Deutsche Bank Financial Analyst (India and Australia)**.
+- ⚡ **Ex Deutsche Bank and Ex HSBC Financial Analyst (India and Australia)**.
 
-- ⚡ Made a very unusual career transformation - after 10 years in International Banking (working across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
+- ⚡ **About my career transformation** - After working for 10 years in International Banking (working across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
 
 - 🌱 I’m currently learning Linear Regression and other Math/Stat concepts in the context of ML/DS ...
 
