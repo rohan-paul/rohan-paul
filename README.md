@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-**Currently in the process of transitioning into Machine-Learning Data-Science & Deep-Learning. Till now over the previous two years, worked in Bangalore startup scene as a Front-End Engineer (React, React-Native and Angular)**
+- 🔭 **Currently in the process of transitioning my career into Machine-Learning Data-Science & Deep-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore startup scene**
 
-You can follow me **[on Twitter - @paul_rohan](https://twitter.com/paulr_rohan)** or check out my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
+- 📫 Here I am **[on Twitter: @paul_rohan](https://twitter.com/paulr_rohan)** and my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
 
 ## More about me
 
-Self-taught Developer. Living and working in Bangalore, India.
+- ⚡ **Self-taught Developer and super unusual Career changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
 
-Made a very unusual career transformation - after 10 years in International Banking (India and Australia) moved to Software Engineering (React, ReactNative, Angular working in Bangalore Startup ecosystem ), for my love of coding and solving problems.
+- ⚡ **Ex Deutsche Bank Financial Analyst (India and Australia)**.
 
-**Ex Deutsche Bank Financial Analyst**
+- ⚡ Made a very unusual career transformation - after 10 years in International Banking (working across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
 
-- 🔭 **I’m currently working on Tensorflow, Pandas and few other Machine_Learning and Data_Science tools.**
+- 🌱 I’m currently learning Linear Regression and other Math/Stat concepts in the context of ML/DS ...
+
+* 🔭 **Currently working on Tensorflow, Pandas and couple of other Machine-Learning and Data-Science libraries and tools.**
 
 ### On my blog
 
