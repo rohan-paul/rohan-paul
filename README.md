@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="math-2.png" alt="drawing" width="600"/>
+<img src="/math-2.png" alt="drawing" width="600"/>
