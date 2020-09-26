@@ -5,19 +5,19 @@
 - 📫 You can connect with me on these **Social Media** platforms.
 
 <a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
-    <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
+    <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
   </a>
 
   <a href="https://medium.com/@paulrohan">
-    <img align="left" alt="Rohan Paul | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
+    <img align="left" alt="Rohan Paul | Medium" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/medium.svg" />
   </a>
 
    <a href="https://twitter.com/paulr_rohan">
-    <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-stacked-preview.png" />
+    <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/twitter.svg" />
   </a>
 
   <a href="https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA">
-    <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-stacked-preview.png" />
+    <img align="left" alt="Rohan Paul | Youtube" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/youtube.svg" />
   </a>
 
 ## More about me
