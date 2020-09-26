@@ -26,7 +26,7 @@
 
 - ⚡ **Ex Deutsche Bank and Ex HSBC Financial Analyst (India and Australia)**.
 
-- ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
+- ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) transitioned to Software Engineering, for my love of coding and solving problems.
 
 - 🌱 Currently working through Mathematics and Statistics fundamental techniques (e.g. Linear and Multi-variate Algebra) and other concepts in the context of implementing them in Machine Learning and Data Science ...
 
