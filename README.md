@@ -2,7 +2,23 @@
 
 - 🔭 **Currently transitioning my career into Machine-Learning, Data-Science & Deep-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad (India) startup space in Fintech and Shipping-tech domain**
 
-- 📫 Here I am **[on Twitter: @paul_rohan](https://twitter.com/paulr_rohan)** and my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
+- 📫 Here I am on **Social Media**.
+
+<a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
+    <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
+  </a>
+
+  <a href="https://medium.com/@paulrohan">
+    <img align="left" alt="Rohan Paul | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
+  </a>
+
+   <a href="https://twitter.com/paulr_rohan">
+    <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-stacked-preview.png" />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA">
+    <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-stacked-preview.png" />
+  </a>
 
 ## More about me
 
@@ -57,7 +73,3 @@ Here are some ideas to get you started:
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-paul&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-paul)](https://github.com/rohan-paul/github-readme-stats)
-
-  <a href="https://medium.com/@paulrohan">
-    <img align="left" alt="Rohan Paul" | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
-  </a>
