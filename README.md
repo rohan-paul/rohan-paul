@@ -21,8 +21,10 @@
   </a>
 
    <a href="https://www.kaggle.com/paulrohan2020">
-    <img align="left" alt="Rohan Paul | Kaggle" width="30px" height="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle.png" />
+    <img align="left" alt="Rohan Paul | Kaggle" width="50px" height="30px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle.png" />
 </a>
+
+`
 
 ## More about me
 
