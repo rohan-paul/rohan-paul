@@ -12,12 +12,13 @@
 
 - ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) moved to Software Engineering, for my love of coding and solving problems.
 
-- 🌱 Currently picking up Mathematics and Statistics fundamental techniques (e.g. Linear and Multi-variate Algebra) and other concepts in the context of implementing them in Machine Learning and Data Science ...
+- 🌱 Currently working through Mathematics and Statistics fundamental techniques (e.g. Linear and Multi-variate Algebra) and other concepts in the context of implementing them in Machine Learning and Data Science ...
 
 * 🔭 **Currently working on Tensorflow, Pandas, Matplotlib and couple of other Machine-Learning and Data-Science libraries and tools.**
 
 ### On my blog
 
+- [Concepts of Differential Calculus for understanding derivation of Gradient Descent in Linear Regresstion](https://medium.com/@paulrohan/concepts-of-differential-calculus-for-understanding-derivation-of-gradient-descent-in-linear-de59a17496a3)
 - [Installing Tensorflow with CUDA & cuDNN GPU support on Ubuntu 20.04 and charge through your Linear Algebra calculations](https://medium.com/@paulrohan/installing-tensorflow-with-cuda-cudnn-gpu-support-on-ubuntu-20-04-f6f67745750a)
 
 - [Python — List vs Tuple vs Dictionary](https://medium.com/@paulrohan/python-list-vs-tuple-vs-dictionary-4a48655c7934)
@@ -33,8 +34,6 @@
 * [Sending verification OTP to user-email with mailgun in a React, Node and Mongo App](https://medium.com/@paulrohan/sending-verification-otp-to-user-email-with-mailgun-in-a-react-node-and-mongo-app-56ba7e4ac29)
 
 * [How bcryptjs works](https://medium.com/javascript-in-plain-english/how-bcryptjs-works-90ef4cb85bf4)
-
-* [Migrating a React Class-Based Component to React Hooks](https://medium.com/better-programming/migrating-react-class-based-component-to-react-hooks-6fb310aed798)
 
 <!-- blog starts -->
 
@@ -54,3 +53,11 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://i.imgur.com/DI20MKk.png" alt="drawing" width="600"/>
+
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-paul&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-paul)](https://github.com/rohan-paul/github-readme-stats)
+
+  <a href="https://medium.com/@paulrohan">
+    <img align="left" alt="Rohan Paul" | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
+  </a>
