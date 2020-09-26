@@ -20,6 +20,10 @@
     <img align="left" alt="Rohan Paul | Youtube" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/youtube.svg" />
   </a>
 
+   <a href="https://www.kaggle.com/paulrohan2020">
+    <img align="left" alt="Rohan Paul | Kaggle" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle-gray.svg" />
+  </a>
+
 ## More about me
 
 - ⚡ **Self-taught Developer and super unusual Career-changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
