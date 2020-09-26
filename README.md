@@ -38,6 +38,9 @@
 
 ### On my blog
 
+- [Fundamentals of Multivariate Calculus for DataScience and Machine Learning
+](https://medium.com/@paulrohan/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca)
+
 - [Concepts of Differential Calculus for understanding derivation of Gradient Descent in Linear Regresstion](https://medium.com/@paulrohan/concepts-of-differential-calculus-for-understanding-derivation-of-gradient-descent-in-linear-de59a17496a3)
 - [Installing Tensorflow with CUDA & cuDNN GPU support on Ubuntu 20.04 and charge through your Linear Algebra calculations](https://medium.com/@paulrohan/installing-tensorflow-with-cuda-cudnn-gpu-support-on-ubuntu-20-04-f6f67745750a)
 
@@ -50,8 +53,6 @@
 * [Angular — avoid subscribe() method for observables](https://medium.com/@paulrohan/angular-avoiding-subscribe-method-by-replacing-it-with-an-asynpipe-when-possible-a92c20793357)
 
 * [Converting JavaScript callbacks to Promise and Async-Await & replacing Async-waterfall method with a Promise](https://medium.com/javascript-in-plain-english/converting-javascript-callbacks-to-promise-and-async-await-replacing-async-waterfall-method-with-3c8b7487e0b9)
-
-* [Sending verification OTP to user-email with mailgun in a React, Node and Mongo App](https://medium.com/@paulrohan/sending-verification-otp-to-user-email-with-mailgun-in-a-react-node-and-mongo-app-56ba7e4ac29)
 
 * [How bcryptjs works](https://medium.com/javascript-in-plain-english/how-bcryptjs-works-90ef4cb85bf4)
 
