@@ -24,8 +24,6 @@
     <img align="left" alt="Rohan Paul | Kaggle" width="50px" height="30px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle.png" />
 </a>
 
-`
-
 ## More about me
 
 - ⚡ **Self-taught Developer and super unusual Career-changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
