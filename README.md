@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Currently in the process of transitioning my career into Machine-Learning Data-Science & Deep-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore in Hyderabad startup scene in India**
+- 🔭 **Currently transitioning my career into Machine-Learning, Data-Science & Deep-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad (India) startup space in Fintech and Shipping-tech domain**
 
 - 📫 Here I am **[on Twitter: @paul_rohan](https://twitter.com/paulr_rohan)** and my **[tech blog](https://medium.com/@paulrohan)** and here's my **[Linkedin](https://www.linkedin.com/in/rohan-paul-b27285129/)**.
 
