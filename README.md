@@ -2,7 +2,7 @@
 
 - 🔭 **Currently transitioning my career into Machine-Learning, Data-Science & Deep-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad (India) startup space in Fintech and Shipping-tech domain**
 
-- 📫 You can connect with me on these **Social Media** platforms.
+- 📫 Connect with me on these **Social Media** platforms.
 
 <a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
     <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
