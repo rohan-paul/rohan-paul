@@ -42,6 +42,9 @@
 ](https://medium.com/@paulrohan/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca)
 
 - [Concepts of Differential Calculus for understanding derivation of Gradient Descent in Linear Regresstion](https://medium.com/@paulrohan/concepts-of-differential-calculus-for-understanding-derivation-of-gradient-descent-in-linear-de59a17496a3)
+
+- [Discrete vs Continuous Probability Distributions in context of Data Science](https://medium.com/analytics-vidhya/discrete-vs-continuous-probability-distributions-in-context-of-data-science-e48c7d40bc0f)
+
 - [Installing Tensorflow with CUDA & cuDNN GPU support on Ubuntu 20.04 and charge through your Linear Algebra calculations](https://medium.com/@paulrohan/installing-tensorflow-with-cuda-cudnn-gpu-support-on-ubuntu-20-04-f6f67745750a)
 
 - [Python — List vs Tuple vs Dictionary](https://medium.com/@paulrohan/python-list-vs-tuple-vs-dictionary-4a48655c7934)
