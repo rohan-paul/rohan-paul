@@ -32,7 +32,7 @@
 
 - ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) transitioned to Software Engineering, for my love of coding and solving problems.
 
-- 🌱 Currently working through Mathematics and Statistics fundamental techniques (e.g. Linear and Multi-variate Algebra) and other concepts in the context of implementing them in Machine Learning and Data Science ...
+- 🌱 Currently working through Mathematics and Statistics fundamentals and techniques (e.g. Linear and Multi-variate Algebra, Matrix Calculus) and other concepts in the context of Machine Learning and Data Science ...
 
 * 🔭 **Currently working on Tensorflow, Pandas, Matplotlib and couple of other Machine-Learning and Data-Science libraries and tools.**
 
