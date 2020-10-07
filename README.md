@@ -38,6 +38,8 @@
 
 ### On my blog
 
+- [Vectorizing Gradient Descent — Multivariate Linear Regression and Python implementation](https://medium.com/@paulrohan/vectorizing-gradient-descent-multivariate-linear-regression-and-python-implementation-e12758bc31b2)
+
 - [Fundamentals of Multivariate Calculus for DataScience and Machine Learning
 ](https://medium.com/@paulrohan/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca)
 
@@ -54,8 +56,6 @@
 * [Deploying a React-Node-MongoDB app to Google Cloud Platform for Free](https://medium.com/@paulrohan/deploying-a-react-node-mongodb-app-to-google-cloud-platforms-google-app-engine-1ba680447d59)
 
 * [Angular — avoid subscribe() method for observables](https://medium.com/@paulrohan/angular-avoiding-subscribe-method-by-replacing-it-with-an-asynpipe-when-possible-a92c20793357)
-
-* [Converting JavaScript callbacks to Promise and Async-Await & replacing Async-waterfall method with a Promise](https://medium.com/javascript-in-plain-english/converting-javascript-callbacks-to-promise-and-async-await-replacing-async-waterfall-method-with-3c8b7487e0b9)
 
 * [How bcryptjs works](https://medium.com/javascript-in-plain-english/how-bcryptjs-works-90ef4cb85bf4)
 
