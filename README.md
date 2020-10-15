@@ -8,7 +8,7 @@
     <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
   </a>
 
-  <a href="https://medium.com/@paulrohan">
+  <a href="https://paulrohan.medium.com/">
     <img align="left" alt="Rohan Paul | Medium" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/medium.svg" />
   </a>
 
