@@ -38,6 +38,8 @@
 
 ### On my blog
 
+- [Bias-Variance Trade-off in DataScience and Calculating with Python](https://paulrohan.medium.com/bias-variance-trade-off-in-datascience-and-calculating-with-python-766158812c46)
+
 - [Vectorizing Gradient Descent — Multivariate Linear Regression and Python implementation](https://medium.com/@paulrohan/vectorizing-gradient-descent-multivariate-linear-regression-and-python-implementation-e12758bc31b2)
 
 - [Fundamentals of Multivariate Calculus for DataScience and Machine Learning
