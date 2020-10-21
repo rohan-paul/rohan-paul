@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Currently transitioning my career into Machine-Learning, Data-Science & Deep-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad (India) startup space in Fintech and Shipping-tech domain**
+- 🔭 **Currently transitioning my career into Data-Science & Machine-Learning. Before this, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad (India) startup space in Fintech and Shipping-tech domain**
 
 - 📫 Connect with me on these **Social Media** platforms.
 
