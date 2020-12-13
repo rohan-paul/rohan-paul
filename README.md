@@ -2,7 +2,7 @@
 
 - **International Banking Financial Analyst (10 long years, across India and Australia) transitioned to full-time Software Engineering**
 
-- 🔭 **Currently transitioning my career into Data-Science & Machine-Learning. And, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad startup space in Fintech and Shipping-tech domain**
+- 🔭 **Currently transitioning again my career into Data-Science & Machine-Learning. And, over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad startup space in Fintech and Shipping-tech domain**
 
 - 📫 Connect with me on these **Social Media** platforms.
 
