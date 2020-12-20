@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- **International Banking Financial Analyst (10 long years, across India and Australia) transitioned to full-time Software Engineering**
+- 🔭 **Ex Full Stack Engineer to Data-Science & Machine-Learning. Before moving into Data Science, worked as an Engineer (React, React-Native, Angular, Node, MongoDB stack) in Bangalore and Hyderabad startup space in Fintech and Shipping-tech domain for two years**.
 
-- 🔭 **Currently transitioning again my career into Data-Science & Machine-Learning. Over the previous two years worked as a Front-End Engineer (React, React-Native and Angular stack) in Bangalore and Hyderabad startup space in Fintech and Shipping-tech domain**. Before that was in International Banking for 10 years.
+- Drastic Career Tranformer. Before my Software Engineering career, was a **International Banking Financial Analyst (for 10 long years, across India and Australia).**
 
 - 📫 Connect with me on these **Social Media** platforms.
 
