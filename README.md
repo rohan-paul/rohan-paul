@@ -43,6 +43,8 @@
 
 - [Data representations for neural networks — Tensor, Vector and Scaler Basics](https://medium.com/analytics-vidhya/data-representations-for-neural-networks-tensor-vector-scaler-basics-4beae5910398)
 
+- [Encoding Categorical Variables in Machine Learning Dataset](https://medium.com/analytics-vidhya/categorical-variables-handling-blog-3e26455d4d00)
+
 - [Bias-Variance Trade-off in DataScience and Calculating with Python](https://paulrohan.medium.com/bias-variance-trade-off-in-datascience-and-calculating-with-python-766158812c46)
 
 - [Vectorizing Gradient Descent — Multivariate Linear Regression and Python implementation](https://medium.com/@paulrohan/vectorizing-gradient-descent-multivariate-linear-regression-and-python-implementation-e12758bc31b2)
@@ -56,15 +58,13 @@
 
 - [Installing Tensorflow with CUDA & cuDNN GPU support on Ubuntu 20.04 and charge through your Linear Algebra calculations](https://medium.com/@paulrohan/installing-tensorflow-with-cuda-cudnn-gpu-support-on-ubuntu-20-04-f6f67745750a)
 
-- [Python — List vs Tuple vs Dictionary](https://medium.com/@paulrohan/python-list-vs-tuple-vs-dictionary-4a48655c7934)
+- [Kaggle House Prices Prediction with Linear Regression and Gradient Boosting](https://medium.com/analytics-vidhya/kaggle-house-prices-prediction-with-linear-regression-and-gradient-boosting-c5694d9c6df4)
 
-* [Implementing Heap Algorithm of Permutation in JavaScript](https://medium.com/@paulrohan/implemetning-heap-algorithm-to-find-permutation-of-a-set-of-numbers-in-javascript-d6b6ef8ee0e)
+- [Exploratory Data Analysis and Moving Averages with Crypto-currency Data from coinmarketcap.com](https://medium.com/analytics-vidhya/moving-averages-with-bitcoin-daily-pricing-from-coinmarket-6f8e9104acd4)
 
-* [Deploying a React-Node-MongoDB app to Google Cloud Platform for Free](https://medium.com/@paulrohan/deploying-a-react-node-mongodb-app-to-google-cloud-platforms-google-app-engine-1ba680447d59)
+- [Axis and Dimensions in Numpy and Pandas Array](https://medium.com/analytics-vidhya/axes-and-dimensions-in-numpy-and-pandas-array-a2490f72631c)
 
-* [Angular — avoid subscribe() method for observables](https://medium.com/@paulrohan/angular-avoiding-subscribe-method-by-replacing-it-with-an-asynpipe-when-possible-a92c20793357)
 
-* [How bcryptjs works](https://medium.com/javascript-in-plain-english/how-bcryptjs-works-90ef4cb85bf4)
 
 <!-- blog starts -->
 
