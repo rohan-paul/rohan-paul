@@ -28,7 +28,7 @@
 
 ## More about me
 
-- ⚡ **Self-taught Developer and super unusual Career-changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
+- ⚡ **Self-taught Engineer and super unusual Career-changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
 
 - ⚡ **Ex Deutsche Bank and Ex HSBC Financial Analyst (India and Australia)**.
 
