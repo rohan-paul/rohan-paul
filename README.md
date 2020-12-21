@@ -35,7 +35,7 @@
 - ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) transitioned to Software Engineering, for my love of coding and solving problems.
 
 
-### On my blog
+### Some of my blog in [medium.com](https://paulrohan.medium.com/)
 
 - [Dimensionality-Reduction-PCA-and-Convolutional Neural Networks on Mnist Dataset-Kaggle Competition Notebook](https://medium.com/analytics-vidhya/dimensionality-reduction-pca-and-convolutional-neural-networks-on-mnist-dataset-kaggle-n-3807ed98f497)
 
