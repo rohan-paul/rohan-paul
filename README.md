@@ -34,11 +34,14 @@
 
 - ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) transitioned to Software Engineering, for my love of coding and solving problems.
 
-- 🌱 Currently working through Mathematics and Statistics fundamentals and techniques (e.g. Linear and Multi-variate Algebra, Matrix Calculus) and other concepts in the context of Machine Learning and Data Science ...
-
-* 🔭 **Currently working on Tensorflow, Pandas, Matplotlib and couple of other Machine-Learning and Data-Science libraries and tools.**
 
 ### On my blog
+
+- [Dimensionality-Reduction-PCA-and-Convolutional Neural Networks on Mnist Dataset-Kaggle Competition Notebook](https://medium.com/analytics-vidhya/dimensionality-reduction-pca-and-convolutional-neural-networks-on-mnist-dataset-kaggle-n-3807ed98f497)
+
+- [LightGBM, XGBoost and CatBoost — Kaggle — Santander Challenge](https://medium.com/analytics-vidhya/gradient-boosting-lightgbm-xgboost-and-catboost-kaggle-challenge-santander-f3cf0cc56898)
+
+- [Data representations for neural networks — Tensor, Vector and Scaler Basics](https://medium.com/analytics-vidhya/data-representations-for-neural-networks-tensor-vector-scaler-basics-4beae5910398)
 
 - [Bias-Variance Trade-off in DataScience and Calculating with Python](https://paulrohan.medium.com/bias-variance-trade-off-in-datascience-and-calculating-with-python-766158812c46)
 
