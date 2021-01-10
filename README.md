@@ -4,7 +4,7 @@
 
 - Drastic Career Tranformer. Before my Software Engineering career, was a **International Banking Financial Analyst (for 10 long years, across India and Australia).**
 
-- 📫 Connect with me on these **Social Media** platforms.
+- 📫 Connect with me on these platforms.
 
 <a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
     <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
