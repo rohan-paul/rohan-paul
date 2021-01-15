@@ -2,7 +2,7 @@
 
 - 🔭 **Ex Full Stack Engineer to Data-Science & Machine-Learning. Before moving into Data Science, worked as an Engineer (React, React-Native, Angular, Node, MongoDB stack) in Bangalore and Hyderabad startup space in Fintech and Shipping-tech domain for two years**.
 
-- Drastic Career Tranformer. Before my Software Engineering career, was a **International Banking Financial Analyst (for 10 long years, across India and Australia).**
+- Drastic Career Tranformer. Before my Software Engineering career, was an **International Banking Financial Analyst (for 10 long years, across India and Australia).**
 
 - 📫 Connect with me on these platforms.
 
