@@ -4,7 +4,7 @@
 
 - Ex Software Engineer (React, React-Native, Angular, Node, MongoDB stack).
 
-- Drastic Career Tranformer. Before my Software Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
+- Drastic Career Transformer. Before my Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
 - Content Creator (Youtube and Blogging)
 
