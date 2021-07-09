@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 **Working in Computer Vision and NLP as an Independent Data Scientist** 
+- 🔭 **Independent Data Scientist - Computer Vision and NLP**
 
 - Ex Software Engineer (React, React-Native, Angular, Node, MongoDB stack).
 
 - Drastic Career Tranformer. Before my Software Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
+
+- Content Creator (Youtube and Bloggin)
 
 - 📫 Connect with me on these platforms.
 
@@ -27,14 +29,6 @@
    <a href="https://www.kaggle.com/paulrohan2020">
     <img align="left" alt="Rohan Paul | Kaggle" width="50px" height="30px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle.png" />
 </a>.
-
-## More about me
-
-- ⚡ **Self-taught Engineer and super unusual Career-changer from International Banking to Software Engineering**. Currently living and working in Bangalore, India.
-
-- ⚡ **Ex Deutsche Bank and Ex HSBC Financial Analyst (India and Australia)**.
-
-- ⚡ **About my career transformation** - After working for 10 years in International Banking (across India, Australia and for a short while in NewYork) transitioned to Software Engineering, for my love of coding and solving problems.
 
 
 ### Some of my blogs in [medium.com](https://paulrohan.medium.com/)
