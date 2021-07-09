@@ -6,13 +6,9 @@
 
 - Drastic Career Tranformer. Before my Software Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
-- Content Creator (Youtube and Bloggin)
+- Content Creator (Youtube and Blogging)
 
-- 📫 Connect with me on these platforms.
-
-<a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
-    <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
-  </a>
+- 📫 Connect with me on these platforms.  
 
   <a href="https://paulrohan.medium.com/">
     <img align="left" alt="Rohan Paul | Medium" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/medium.svg" />
@@ -28,7 +24,12 @@
 
    <a href="https://www.kaggle.com/paulrohan2020">
     <img align="left" alt="Rohan Paul | Kaggle" width="50px" height="30px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle.png" />
-</a>.
+   </a>
+   
+   <a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
+    <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
+  </a>
+   .
 
 
 ### Some of my blogs in [medium.com](https://paulrohan.medium.com/)
