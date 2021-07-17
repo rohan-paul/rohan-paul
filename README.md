@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Independent Data Scientist - Computer Vision and NLP**
+- 🔭 **Independent Data Scientist | Kaggle Master - Computer Vision and NLP**
 
 - Ex Software Engineer (React, React-Native, Angular, Node, MongoDB stack).
 
