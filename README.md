@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 **Independent Data Scientist | Kaggle Master - Computer Vision and NLP**
+- 🔭 **Computer Vision and NLP | Kaggle Master**
 
-- Ex Software Engineer (React, React-Native, Angular, Node, MongoDB stack).
+- Ex React, React-Native, Angular, Node, MongoDB stack Engineer.
 
 - Drastic Career Transformer. Before my Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
