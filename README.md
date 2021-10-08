@@ -8,11 +8,11 @@
 
 - Content Creator (Youtube and Blogging)
 
-[![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp;
+## [Checkout my YouTube Channel where I focus on Machine Learning and Deep Learning Fundamentals and Kaggle Projects](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/)
 
-[logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/2.png
+[logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/3.png
 
-[![Youtube Link][logo]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp; [Checkout my YouTube Channel]
+[![Youtube Link][logo]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp;
  
  
 
