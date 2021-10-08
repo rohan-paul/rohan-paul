@@ -8,9 +8,11 @@
 
 - Content Creator (Youtube and Blogging)
 
-## Checkout my YouTube Channel <a href="https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos">
-    <img align="left" alt="Rohan Paul | Youtube" width="48px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/youtube.svg" />
- </a>
+[![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp;
+
+[logo]: https://github.com/rohan-paul/rohan-paul/blob/master/assets/youtube.svg
+
+[![Youtube Link][logo]](https://youtu.be/arm9wLAk44A) &nbsp; [Checkout my YouTube Channel]
  
  
 
