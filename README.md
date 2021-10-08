@@ -10,9 +10,9 @@
 
 [![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp;
 
-[logo]: https://github.com/rohan-paul/rohan-paul/blob/master/assets/youtube.svg
+[logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/2.png
 
-[![Youtube Link][logo]](https://youtu.be/arm9wLAk44A) &nbsp; [Checkout my YouTube Channel]
+[![Youtube Link][logo]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp; [Checkout my YouTube Channel]
  
  
 
