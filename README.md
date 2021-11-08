@@ -8,11 +8,11 @@
 
 - Content Creator (Youtube and Blogging)
 
-## [Subscribe to my Machine Learning and Deep Learning YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/)
+## [Subscribe to my Machine Learning and Deep Learning YouTube Channel](https://www.youtube.com/c/RohanPaul-AI/featured)
 
 [logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/3.png
 
-[![Youtube Link][logo]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos) &nbsp;
+[![Youtube Link][logo]](https://www.youtube.com/c/RohanPaul-AI/featured) &nbsp;
  
  
 
