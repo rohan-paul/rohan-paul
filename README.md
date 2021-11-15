@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Natural Language Processing | Kaggle Master**
+- 🔭 **Computer Vision Engineer | Kaggle Master**
 
 - Ex React, React-Native, Angular, Node, MongoDB stack Engineer.
 
