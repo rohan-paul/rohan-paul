@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Computer Vision Engineer | Kaggle Master**
+- 🔭 **Independent Computer Vision Engineer | Deep Learning | Kaggle Master**
 
 - Ex React, React-Native, Angular, Node, MongoDB stack Engineer.
 
