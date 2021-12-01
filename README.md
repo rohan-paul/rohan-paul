@@ -16,11 +16,8 @@
  
  
 
-- 📫 Connect with me on these platforms.  
-
-  <a href="https://paulrohan.medium.com/">
-    <img align="left" alt="Rohan Paul | Medium" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/medium.svg" />
-  </a>
+- 📫 Connect with me on these platforms.
+  
 
    <a href="https://twitter.com/paulr_rohan">
     <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/twitter.svg" />
