@@ -6,7 +6,9 @@
 
 - Drastic Career Transformer. Before my Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
-- Content Creator (Youtube and Blogging)
+- Content Creator (Youtube)
+
+- **Checkout my [Personal Website](https://rohan-paul-ai.netlify.app/)**
 
 ## [Subscribe to my Machine Learning and Deep Learning YouTube Channel](https://www.youtube.com/c/RohanPaul-AI/featured)
 
