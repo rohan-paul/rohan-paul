@@ -8,7 +8,7 @@
 
 - Content Creator (Youtube)
 
-- **Checkout my [Personal Website](https://rohan-paul-ai.netlify.app/)**
+- ### Checkout my [Personal Website and Blog](https://rohan-paul-ai.netlify.app/)
 
 ## [Subscribe to my Machine Learning and Deep Learning YouTube Channel](https://www.youtube.com/c/RohanPaul-AI/featured)
 
