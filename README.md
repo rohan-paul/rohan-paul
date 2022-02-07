@@ -38,8 +38,6 @@
   </a>
    .
 
-<img src="https://i.imgur.com/DI20MKk.png" alt="drawing" width="600"/>
-
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-paul&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-paul)](https://github.com/rohan-paul/github-readme-stats)
