@@ -10,7 +10,7 @@
 
 - ### Checkout my [Personal Website and Blog](https://rohan-paul-ai.netlify.app/)
 
-## [Subscribe to my Machine Learning and Deep Learning YouTube Channel](https://www.youtube.com/c/RohanPaul-AI/featured)
+## [Subscribe to my YouTube Channel | Deep Learning | Computer Vision | PyTorch](https://www.youtube.com/c/RohanPaul-AI/featured)
 
 [logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/3.png
 
