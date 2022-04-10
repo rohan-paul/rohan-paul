@@ -7,8 +7,7 @@
 - Drastic Career Transformer. Before my Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
 - Content Creator (Youtube)
-
-- ### Checkout my [Personal Website and Blog](https://rohan-paul-ai.netlify.app/)
+- ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
 ## [Subscribe to my YouTube Channel | Deep Learning | Computer Vision | PyTorch](https://www.youtube.com/c/RohanPaul-AI/featured)
 
@@ -21,7 +20,7 @@
 - 📫 Connect with me on these platforms.
   
 
-   <a href="https://twitter.com/paulr_rohan">
+   <a href="https://twitter.com/rohanpaul_ai">
     <img align="left" alt="Rohan Paul | Twitter" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/twitter.svg" />
   </a>
 
@@ -36,7 +35,10 @@
    <a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
     <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
   </a>
-   .
+ 
+
+#### [Personal site and Blog](https://rohan-paul-ai.netlify.app/)
+   
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-paul&count_private=true&show_icons=true&theme=radical)
 
