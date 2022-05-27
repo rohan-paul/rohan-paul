@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Independent Computer Vision Engineer | Deep Learning | Kaggle Master**
+- 🔭 **Independent Data Scientist (NLP) | Kaggle Master | YouTuber**
 
 - Previously Full-Stack Engineer (React, React-Native, Angular, Node, MongoDB ).
 
