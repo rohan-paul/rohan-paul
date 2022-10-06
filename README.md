@@ -9,7 +9,7 @@
 - Content Creator (Youtube)
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
-## [Subscribe to my YouTube Channel | Natural Language Processing | Machine Learning](https://www.youtube.com/c/RohanPaul-AI/featured)
+## [Subscribe to my YouTube Channel on Machine Learning | 5-6 Videos each week](https://www.youtube.com/c/RohanPaul-AI/featured)
 
 [logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/3.png
 
