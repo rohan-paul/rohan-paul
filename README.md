@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **International Banker turned Machine Learning Engineer | Kaggle Master | Finance and Trading Analytics | YouTuber**
+- 🔭 **Banker turned Machine Learning Engineer & Stock Trader | Kaggle Master | YouTuber**
 
 - Previously Full-Stack Engineer (React, React-Native, Angular, Node, MongoDB ).
 
