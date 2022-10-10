@@ -4,7 +4,7 @@
 
 - Previously Full-Stack Engineer (React, React-Native, Angular, Node, MongoDB ).
 
-- Drastic Career Transformer. Before my Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
+- Before my Engineering career, worked as an **International Banking Financial Analyst for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
 - Content Creator (Youtube)
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
