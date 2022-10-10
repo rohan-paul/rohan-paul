@@ -6,7 +6,6 @@
 
 - Before my Engineering career, worked in **International Banking for 10 years in Deutsche Bank and HSBC, across India and Australia**
 
-- Content Creator (Youtube)
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
 ## [Subscribe to my YouTube Channel on Machine Learning | 5-6 Videos each week](https://www.youtube.com/c/RohanPaul-AI/featured)
