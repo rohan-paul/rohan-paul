@@ -37,11 +37,7 @@
   
   <a href="https://rohanpaul.substack.com/">
     <img align="left" alt="Rohan Paul | Substack" width="24px" src="https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/substack.png" />
-  </a>
- 
-
-#### [Personal site and Blog](https://rohan-paul-ai.netlify.app/)
-   
+  </a>   
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-paul&count_private=true&show_icons=true&theme=radical)
 
