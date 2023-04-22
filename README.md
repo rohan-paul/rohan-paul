@@ -8,7 +8,7 @@
 
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
-## [Subscribe to my YouTube Channel on Machine Learning | 5-6 Videos each week](https://www.youtube.com/c/RohanPaul-AI/featured)
+## [Subscribe to my YouTube Channel on Machine Learning](https://www.youtube.com/c/RohanPaul-AI/featured)
 
 [logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/3.png
 
@@ -33,6 +33,10 @@
    
    <a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
     <img align="left" alt="Rohan Paul | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
+  </a>
+  
+  <a href="https://rohanpaul.substack.com/">
+    <img align="left" alt="Rohan Paul | Substack" width="24px" src="https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/substack.png" />
   </a>
  
 
