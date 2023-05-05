@@ -10,7 +10,7 @@
 
 ## [Subscribe to my YouTube Channel on Machine Learning](https://www.youtube.com/c/RohanPaul-AI/featured)
 
-[logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/3.png
+[logo]: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/assets/Youtube_Cover.jpg
 
 [![Youtube Link][logo]](https://www.youtube.com/c/RohanPaul-AI/featured) &nbsp;
  
