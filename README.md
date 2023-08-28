@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Banker turned Machine Learning Engineer | Kaggle Master**
+- 🔭 **Machine Learning Engineer | Kaggle Master**
 
 - Previously Full-Stack Engineer (React, React-Native, Angular, Node, MongoDB ).
 
