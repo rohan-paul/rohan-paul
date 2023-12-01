@@ -4,7 +4,7 @@
 
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
-## [Subscribe to my YouTube Channel on Machine Learning](https://www.youtube.com/c/RohanPaul-AI/featured)
+## [Subscribe to my YouTube Channel ( Large Language Models / Machine Learning)](https://www.youtube.com/c/RohanPaul-AI/featured)
 
 [logo]: https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/assets/Youtube_Cover.png
 
