@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **Machine Learning Engineer | Kaggle Master**
+- 🔭 **Machine Learning Engineer working with Large Language Models | Kaggle Master**
 
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
