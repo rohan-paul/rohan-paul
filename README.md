@@ -4,11 +4,11 @@
 
 - ### [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
-## [Subscribe to my YouTube Channel ( Large Language Models / Machine Learning)](https://www.youtube.com/c/RohanPaul-AI/featured)
+## [📚 I write daily for my 112K+ readers on actionable AI developments. Get a 1300+ page Python book as soon as you subscribing (its FREE) ↓↓)](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new)
 
-[logo]: https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/blob/main/assets/Youtube_Cover.png
+[logo]: https://github.com/rohan-paul/rohan-paul/blob/master/assets/newsletter_rohan.png
 
-[![Youtube Link][logo]](https://www.youtube.com/c/RohanPaul-AI/featured) &nbsp;
+[![Rohan's Newsletter][logo]](https://www.rohan-paul.com/) &nbsp;
  
  
 
